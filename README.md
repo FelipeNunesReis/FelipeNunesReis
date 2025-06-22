@@ -38,8 +38,8 @@ Feel free to connect and follow my journey.
 
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-nunes-b3a3061b6/)  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)                            [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fehlipera_scx/)
 
- ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeNunesReis&show_icons=true&theme=radical)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNunesReis&layout=compact&icons=true&theme=radical)
+ ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeNunesReis&show_icons=true&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNunesReis&layout=compact&icons=true&theme=transparent)
 
 ## 🛠️ Technologies I Use in My Projects 😎
 
